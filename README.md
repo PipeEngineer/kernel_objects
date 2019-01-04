@@ -34,3 +34,5 @@ kmalloc-64
 kmalloc-8192
 
 ```
+* <a href="Huawei/Mate10Pro/BLA_OREO_EMUI8">BLA_OREO_EMUI8</a>
+
