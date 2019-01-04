@@ -13,4 +13,5 @@ kmalloc-128       121556 129408    128   32    1 : tunables    0    0    0 : sla
 
 ```
 ## Samsung Galaxy S9
- [G960FXXU2CRLI](Samsung Galaxy/exynos/G960FXXU2CRLI)
+
+* <a href="Samsung Galaxy/exynos/G960FXXU2CRLI">G960FXXU2CRLI</a>
