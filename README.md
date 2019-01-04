@@ -19,3 +19,18 @@ kmalloc-128       121556 129408    128   32    1 : tunables    0    0    0 : sla
 #### Samsung Galaxy S9
 
 * <a href="Samsung Galaxy/exynos/G960FXXU2CRLI">G960FXXU2CRLI</a>
+
+#### Huawei Mate 10 Pro
+```
+HWBLA:/ $ ls  /sys/kernel/slab/ | grep ^kmalloc                                                                                                                                                                          
+kmalloc-1024
+kmalloc-128
+kmalloc-192
+kmalloc-2048
+kmalloc-256
+kmalloc-4096
+kmalloc-512
+kmalloc-64
+kmalloc-8192
+
+```
