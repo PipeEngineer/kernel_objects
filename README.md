@@ -2,6 +2,9 @@
 
 Information about kernel objects from different kernels collected in one place.
 
+**
+All gathered structures parsed from object files, simplified sorted into kmalloc* zones only. 
+
 ### Android kernels
 
 #### Samsung Galaxy S8
