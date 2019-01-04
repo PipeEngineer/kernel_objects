@@ -1,6 +1,10 @@
 # kernel_objects
 
-## Samsung Galaxy S8
+Information about kernel objects from different kernels collected in one place.
+
+### Android kernels
+
+#### Samsung Galaxy S8
 ```
 dream2lte:/ $ cat /proc/slabinfo | grep kmalloc                                                                                                                                                                      
 kmalloc-8192         209    224   8192    4    8 : tunables    0    0    0 : slabdata     56     56      0
@@ -12,6 +16,6 @@ kmalloc-256        22017  24384    256   32    2 : tunables    0    0    0 : sla
 kmalloc-128       121556 129408    128   32    1 : tunables    0    0    0 : slabdata   4044   4044      0
 
 ```
-## Samsung Galaxy S9
+#### Samsung Galaxy S9
 
 * <a href="Samsung Galaxy/exynos/G960FXXU2CRLI">G960FXXU2CRLI</a>
